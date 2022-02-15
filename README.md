@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Senne Loos
+- 👀 Im looking for an internship as a Software Developer
+- 🌱 I’m currently learning how to use PHP, C# and Laravel
